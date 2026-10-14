@@ -1,0 +1,8 @@
+{
+  "model_name": "gemini-1.5-flash",
+  "total_calls": 19,
+  "total_input_tokens": 1580,
+  "total_output_tokens": 1061,
+  "total_tokens": 2641,
+  "estimated_cost_usd": 0.000437
+}
